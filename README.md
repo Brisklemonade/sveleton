@@ -15,7 +15,7 @@
     <a href="https://github.com/Brisklemonade/sveleton"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Brisklemonade/sveleton">View Demo</a>
+    <a href="https://sveleton-csttwfha1-brisklemonade.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/Brisklemonade/sveleton/issues">Report Bug</a>
     ·

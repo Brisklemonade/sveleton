@@ -27,7 +27,7 @@
 
 ## About The Project
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Sveleton (pronounced like skeleton but with a v) is a pretty "bare bones" documentation starter project. It utilizes MdSvex for the power of markdown in your svelte components, as well as tailwind for quick styling. With both of those combined, documentation will be a breeze!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

@@ -1,6 +1,6 @@
 import { mdsvex } from 'mdsvex';
 import path from 'path';
-import vercel from '@sveltejs/adapter-vercel';
+import adapter from '@sveltejs/adapter-vercel';
 import preprocess from 'svelte-preprocess';
 import slug from 'rehype-slug';
 
@@ -21,10 +21,8 @@ const config = {
 	],
 
 	kit: {
-		adapter: vercel(),
+		adapter: adapter(),
 
-		// hydrate the <div id="svelte"> element in src/app.html
-		target: '#svelte',
 		package: {
 			exports: (file) => file === 'index.js'
 		},
